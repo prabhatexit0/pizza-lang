@@ -1,0 +1,4 @@
+topping numberOfSlices = 8
+topping numberOfPizzas = 2
+topping numberOfPeople = 2
+topping numberOfSlicesPerPerson = numberOfSlices / numberOfPeople
